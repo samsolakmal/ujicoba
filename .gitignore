@@ -1,0 +1,25 @@
+# Environment (JANGAN COMMIT)
+.env
+.env.local
+.env.*.local
+
+# Database & Model (regenerate otomatis)
+data/*.db
+data/*.db-wal
+data/*.db-shm
+models/*.pkl
+models/*.joblib
+
+# Logs
+logs/*.log
+logs/*.txt
+logs/*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Streamlit cache
+.streamlit/

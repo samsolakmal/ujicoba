@@ -1,0 +1,11 @@
+# SIGAP v6.2 — Minimal & Pinned
+pandas==2.2.2
+numpy==1.26.4
+networkx==3.3
+xgboost==2.1.1
+scikit-learn==1.5.1
+pydantic==2.8.2
+joblib==1.4.2
+python-dotenv==1.0.1
+streamlit==1.38.0
+fpdf2
